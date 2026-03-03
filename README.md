@@ -15,7 +15,7 @@ The Air Canvas project leverages **Computer Vision** to track hand movements and
 - **Python 3.12**
 - **MediaPipe:** Used for high-speed, 21-point hand landmark extraction.
 - **OpenCV:** Handles video processing, UI overlays, and frame masking.
-- **NumPy:** Manages the drawing canvas array and bitwise transformations.
+- **NumPy:** Manages the drawing canvas array and bitwise transformations. 
 
 [Image of an Air Canvas project interface showing hand tracking and virtual drawing]
 
